@@ -1,0 +1,22 @@
+{
+  "name": "website-coffee",
+  "version": "1.0.0",
+  "description": "Coffee Website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZPPD/coffee-website.git"
+  },
+  "author": "ZPPD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZPPD/coffee-website/issues"
+  },
+  "homepage": "https://github.com/ZPPD/coffee-website",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
